@@ -1,0 +1,3 @@
+*.py[aco]
+__pycache__
+venv
